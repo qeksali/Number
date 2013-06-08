@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DeployProperties>
+<property>
+    <env>550</env>
+    <applicationId>Number_Q</applicationId>
+    <applicationVersion>v6</applicationVersion>
+    <warFile>C:\Users\shinhung\workspace\Number2.war</warFile>
+    <stage>5</stage>
+</property>
+</DeployProperties>
