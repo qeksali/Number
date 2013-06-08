@@ -3,8 +3,8 @@
 <property>
     <env>550</env>
     <applicationId>Number_Q</applicationId>
-    <applicationVersion>v6</applicationVersion>
+    <applicationVersion>v16</applicationVersion>
     <warFile>C:\Users\shinhung\workspace\Number2.war</warFile>
-    <stage>5</stage>
+    <stage>3</stage>
 </property>
 </DeployProperties>
